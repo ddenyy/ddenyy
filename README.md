@@ -2,7 +2,7 @@
 
 <p>
   <h1 align="center">Всем привет! Меня зовут 
-    <a href="https://vk.com/nikkach" target="_blank">
+    <a href="https://vk.com/ddenios" target="_blank">
       Денис Осипов
     </a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
