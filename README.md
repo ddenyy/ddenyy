@@ -10,7 +10,8 @@
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1384F7&center=true&width=435&lines=Junior+Front-end+dev" alt="Typing SVG" /></a>
   </p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F747&width=435&lines=sport+programmer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F747&center=true&vCenter=true&width=435&lines=junior+front-end;sport+programmer" alt="Typing SVG" /></a>
+main
 </p>
 
 ### ***О себе:***
