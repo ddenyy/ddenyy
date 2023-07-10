@@ -1,6 +1,4 @@
 <img margin-top="50px" align="right" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"/>
-
-
 <p>
   <h2 align="center">Всем привет! Меня зовут 
     <a href="https://vk.com/ddenios" target="_blank">
@@ -9,7 +7,8 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24">
   </h2>
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=00F747&center=true&vCenter=true&width=435&lines=programmer+and+mathematician" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=00F747&center=false&vCenter=true&width=435&lines=programmer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=00F747&center=false&vCenter=true&width=435&lines=mathematic" alt="Typing SVG" /></a>
   </p>
   
 </p>
