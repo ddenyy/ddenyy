@@ -17,6 +17,8 @@
 
 
 ### ***О себе:***
+* :computer: занимаюсь web-разработкой
+
 * 🌶️ студент математического факультета
 
 * ⭐ знаю алгоритмы и умею оценивать их сложность
@@ -44,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-### 🌠 _**Изучаю сейчас**_
+### 🌠 _**Работаю сейчас**_
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
