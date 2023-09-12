@@ -77,6 +77,6 @@
 
 ### ***Контакты:***
 ### 📧 Почта: ddennios@yandex.ru
-### 🌐 Telegram: [@denyOs](https://t.me/denyOs)
+### 🌐 Telegram: [@dddennios](https://t.me/ddennios)
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
