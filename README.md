@@ -5,7 +5,7 @@
       Денис Осипов
     </a> 
     <br/>
-    Инженер-программист <br/> НПО Криста
+    Инженер-программист <br/> Криста
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24">
   </h2>
   <p align="center">
