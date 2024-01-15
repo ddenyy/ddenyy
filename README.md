@@ -1,83 +1,10 @@
-<img margin-top="50px" align="right" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"/>
-<p>
-  <h2 align="center">Всем привет! Меня зовут 
-    <a href="https://vk.com/ddenios" target="_blank">
-      Денис Осипов
-    </a> 
-    <br/>
-    Инженер-программист <br/> Криста
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24">
-  </h2>
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=500&color=00F747&center=false&vCenter=true&width=435&lines=programmer" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=500&color=00F747&center=false&vCenter=true&width=435&lines=mathematics" alt="Typing SVG" /></a>
-  </p>
-  
-</p>
+# Притча о Денисе
 
-### ***О себе:***
-* :computer: занимаюсь web-разработкой
+Денис Осипов, страстный, но эксцентричный человек, был убежден, что для освоения языка программирования достаточно одной программы. С непоколебимой решимостью он отправился в уникальное путешествие — написал базовый фрагмент кода на каждом языке программирования, который смог найти. Его репозиторий GitHub вскоре превратился в любопытную коллекцию языков, от самых популярных до самых малоизвестных.
+Неожиданно Денис получил электронное письмо от Google, в котором выразил интерес к его необычному начинанию. Заинтригованные его разнообразными проектами по языкам программирования, они предложили ему должность в своей штаб-квартире в США. Волнение охватило Дениса, и он, не раздумывая, решил воспользоваться этой возможностью, которая выпадает раз в жизни.
 
-* 🌶️ студент математического факультета
+Денис сделал смелый шаг, продав свой заветный ноутбук и даже сертификат спортивного программиста, чтобы профинансировать поездку в США. Приземлившись в Кремниевой долине, он почувствовал, что живет мечтой. Однако реальность сильно ударила по его первому дню в Google. Его неортодоксальный подход к программированию, хотя и был творческим, не соответствовал структурированной среде технологического гиганта.
+После сложного рабочего дня Дениса вызвали на встречу со своим начальником. Вместо похвалы его встретили резкими словами: «Ну ты и шиз». Google решил уволить его, оставив Дениса в шоке. Без денег на обратный билет и разбитых мечтах он оказался в сложной ситуации.
 
-* ⭐ знаю алгоритмы и умею оценивать их сложность
-
-* 🚀 Занимаюсь спортивнымПрограммированием 
-  
-* ⏱ Оптимизирую код
-
-* ☀️ Пишу "Чистый код" // хоть я и спортпрогер
-
-* 💪 не боюсь трудностей, открыт к новому опыту
-
-### 🔨 ***Стек из web:***
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Java" alt="NodeJS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="NodeJS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="NodeJS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGIX" alt="NodeJS" width="40" height="40" />&nbsp;
-</div>
-
-### :wrench: ***Стек спортПрога:***
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-</div>
-
-### _**Изучаю сейчас**_
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40" />&nbsp;
-</div>
-
-
- ----
-### 🏆 ***Моя статистика:***
-<img width="49%" src="https://www.codewars.com/users/ddenyy/badges/large">
-<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddenyy&theme=github_dark">
-
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddenyy&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddenyy&theme=github_dark">
-</div>
-
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddenyy&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddenyy&theme=github_dark&utcOffset=8">
-</div>
-
-### My Codeforces Stats
-
-[CODEFORCES](https://codeforces.com/profile/ddennios)
-
-### ***Контакты:***
-### 📧 Почта: ddennios@yandex.ru
-### 🌐 Telegram: [@dddennios](https://t.me/ddennios)
-
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+Отчаяние заставило Дениса устроиться дворником в тот самый город, который когда-то символизировал успех. Контраст между его первоначальными стремлениями и нынешней реальностью тяжело давил на него. Борясь с разочарованием и одиночеством, Денис искал утешения в алкоголе. Ночи превратились в рутину: днем ​​мыть офисы, а ночью заглушать свои печали.
+Со временем многообещающий программист стал тенью самого себя. Яркая энергия, которая когда-то питала его творческие способности, сменилась оцепенением его рутины. Нисходящая спираль продолжалась до тех пор, пока Денис Осипов, человек, который когда-то верил в силу одной-единственной программы, не поддался суровым реалиям жизни и не спился до трагического конца в стране разбитых мечтаний
