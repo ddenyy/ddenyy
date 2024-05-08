@@ -1,5 +1,4 @@
-
-<p>
+<p style="margin-bottom: 50px;">
   <h2 align="center">Всем привет! Меня зовут 
     <a href="https://vk.com/ddenios" target="_blank">
       Денис Осипов
@@ -8,13 +7,14 @@
     Инженер-программист <br/> Криста
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24">
   </h2>
-  <p align="center">
+  <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=500&color=00F747&center=false&vCenter=true&width=435&lines=programmer" alt="Typing SVG" /></a>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=500&color=00F747&center=false&vCenter=true&width=435&lines=mathematics" alt="Typing SVG" /></a>
   </p>
   
 </p>
-<img margin-top="20px" align="right" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"/>
+
+<img align="right" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"/>
 
 ### ***О себе:***
 * :computer: занимаюсь web-разработкой
