@@ -14,7 +14,7 @@
   </p>
   
 </p>
-<img margin-top="50px" align="right" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"/>
+<img margin-top="20px" align="right" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"/>
 
 ### ***О себе:***
 * :computer: занимаюсь web-разработкой
