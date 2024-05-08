@@ -1,4 +1,4 @@
-<img margin-top="50px" align="right" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"/>
+
 <p>
   <h2 align="center">Всем привет! Меня зовут 
     <a href="https://vk.com/ddenios" target="_blank">
@@ -14,6 +14,7 @@
   </p>
   
 </p>
+<img margin-top="50px" align="right" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"/>
 
 ### ***О себе:***
 * :computer: занимаюсь web-разработкой
@@ -30,6 +31,10 @@
 
 * 💪 не боюсь трудностей, открыт к новому опыту
 
+* :house: Знаю паттерны и шаблоны проектирования кода
+
+* :mag: Пишу автотесты и покрываю ими свой код 
+
 ### 🔨 ***Стек из web:***
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="NodeJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="NodeJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGIX" alt="NodeJS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="JEST" alt="Jest" width="40" height="40" />&nbsp;
 </div>
 
 ### :wrench: ***Стек спортПрога:***
@@ -53,7 +59,8 @@
 
 ### _**Изучаю сейчас**_
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="40" height="40" 
 </div>
 
 
