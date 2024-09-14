@@ -1,9 +1,8 @@
+
 # 👋 Привет, я [Денис Осипов](https://vk.com/ddenios)
 
 **Инженер-программист** в **Криста**  
-🖥️ Люблю писать код, оптимизировать его, обучаться новому и решать задачи!
-
----
+🖥️ Люблю программировать, оптимизировать, обучаться новому и решать задачи
 
 ## 💡 О себе:
 
@@ -14,8 +13,6 @@
 - 🏆 Владею принципами **чистого кода** и паттернами проектирования
 - 🧪 Пишу **автотесты** для покрытия кода
 - 💪 Открыт к новым вызовам и опыту
-
----
 
 ## 🛠 Мой стек:
 
@@ -41,15 +38,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C++" width="40" height="40"/>
 </div>
 
----
-
 ## 🔍 Изучаю сейчас:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
 </div>
-
----
 
 ## 🏆 Моя статистика:
 
@@ -71,20 +64,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddenyy&theme=github_dark&utcOffset=8" alt="Productive Time" width="48%">
 </div>
 
----
-
 ## 📊 Статистика **Codeforces**:
 
 [Codeforces Профиль](https://codeforces.com/profile/ddennios)
-
----
 
 ## 📬 Контакты:
 
 - 📧 Почта: [ddennios@yandex.ru](mailto:ddennios@yandex.ru)
 - 💬 Telegram: [@dddennios](https://t.me/ddennios)
-
----
 
 ![Thank You](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Спасибо%20за%20посещение!&fontSize=40&animation=twinkling)
 
