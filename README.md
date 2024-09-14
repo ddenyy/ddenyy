@@ -53,16 +53,22 @@
 
 ## 🏆 Моя статистика:
 
-![Codewars](https://www.codewars.com/users/ddenyy/badges/large)
-
-<div>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddenyy&theme=github_dark">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddenyy&theme=github_dark">
+<div align="center">
+  <img src="https://www.codewars.com/users/ddenyy/badges/large" alt="Codewars Badge" style="margin-bottom: 20px;">
 </div>
 
-<div>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddenyy&theme=github_dark">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddenyy&theme=github_dark&utcOffset=8">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddenyy&theme=github_dark" alt="GitHub Profile Details" width="90%">
+</div>
+
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddenyy&theme=github_dark" alt="Most Used Languages" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddenyy&theme=github_dark" alt="Most Commit Language" width="48%">
+</div>
+
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddenyy&theme=github_dark" alt="GitHub Stats" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddenyy&theme=github_dark&utcOffset=8" alt="Productive Time" width="48%">
 </div>
 
 ---
@@ -83,8 +89,3 @@
 ![Thank You](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Спасибо%20за%20посещение!&fontSize=40&animation=twinkling)
 
 ---
-
-### Изменения:
-- Упрощение структуры для более лёгкого восприятия.
-- Удалены избыточные стили и оформлены блоки для лучшей читаемости.
-- Добавлен акцент на важные разделы (технологии, статистика, контакты).
